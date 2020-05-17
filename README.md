@@ -1,4 +1,5 @@
-# Jaypath
+# Jaypath - Yuming(Carol) Li
+Course schedule recommendation web application for Johns Hopkins Computer Science students.
 
 ## Install Node and NPM
 
